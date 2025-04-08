@@ -1,5 +1,5 @@
 (function() {
-    const TOKEN = "59d05bd54f314a54bde2a4ac8d5300e8";  // التوكن المُحدث
+    const TOKEN = "e2219079c5ae4e04befb7d426d5804d0";  // التوكن المُحدث
     const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36";  // وكيل المستخدم المُحدث
 
     // دالة لإرسال POST
